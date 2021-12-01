@@ -1,0 +1,9 @@
+/vendor
+/composer.phar
+composer.lock
+# Ignore PhpStorm files
+/.idea/
+# Ignore files under Mac
+.DS_Store
+
+phpunit.phar
