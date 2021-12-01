@@ -1,8 +1,3 @@
-[![Latest Stable Version](http://poser.pugx.org/nsp-team/crypt-tool/v)](https://packagist.org/packages/nsp-team/crypt-tool)
-[![Total Downloads](http://poser.pugx.org/nsp-team/crypt-tool/downloads)](https://packagist.org/packages/nsp-team/crypt-tool)
-[![Latest Unstable Version](http://poser.pugx.org/nsp-team/crypt-tool/v/unstable)](https://packagist.org/packages/nsp-team/crypt-tool)
-[![License](http://poser.pugx.org/nsp-team/crypt-tool/license)](https://packagist.org/packages/nsp-team/crypt-tool)
-[![PHP Version Require](http://poser.pugx.org/nsp-team/crypt-tool/require/php)](https://packagist.org/packages/nsp-team/crypt-tool)
 
 # Summary
 
